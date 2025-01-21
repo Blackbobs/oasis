@@ -1,0 +1,47 @@
+{
+  "name": "oasis",
+  "version": "1.2.2",
+  "description": "A customizable toast notification library for React.",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "rollup": "rollup -c --bundleConfigAsCjs"
+  },
+  "keywords": [
+    "Custom",
+    "Notifications"
+  ],
+  "author": "Blackbobs",
+  "repository": {
+    "url": "https://github.com/Blackbobs/oasis"
+},
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^4.30.1"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-icons": "^4.0.0 || ^5.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/estree": "^1.0.6",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "@types/resolve": "^1.20.6",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "rollup-plugin-dts": "^6.1.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tailwindcss": "^3.4.17",
+    "tslib": "^2.8.1",
+    "typescript": "^4.5.0"
+  }
+}
