@@ -1,6 +1,6 @@
 {
   "name": "oasis-toast",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A customizable toast notification library for React.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Blackbobs/oasis"
 },
   "license": "MIT",
-  "homepage": "https://github.com/Blackbobs/oasis",
+  "homepage": "https://oasis-doc-kohl.vercel.app",
   "dependencies": {
     "rollup": "^4.30.1"
   },
