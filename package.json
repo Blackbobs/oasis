@@ -18,6 +18,7 @@
     "url": "https://github.com/Blackbobs/oasis"
 },
   "license": "MIT",
+  "homepage": "https://github.com/Blackbobs/oasis",
   "dependencies": {
     "rollup": "^4.30.1"
   },
