@@ -111,25 +111,25 @@ Each toast type is visually distinct, making it easy to convey the message's imp
 
 
 ### Success Toast
-![Success Toast](/src/img/success.png)
+![Success Toast](/static/img/success.png)
 - Used for successful operations
 - Green color scheme
 - Includes a checkmark icon
 
 ### Error Toast
-![Error Toast](/src/img/error.png)
+![Error Toast](/static/img/error.png)
 - Used for error messages
 - Red color scheme
 - Includes an X icon
 
 ### Info Toast
-![Info Toast](/src/img/info.png)
+![Info Toast](/static/img/info.png)
 - Used for informational messages
 - Blue color scheme
 - Includes an information icon
 
 ### Warning Toast
-![Warning Toast](/src/img/warning.png)
+![Warning Toast](/static/img/warning.png)
 - Used for warning messages
 - Yellow color scheme
 - Includes an exclamation icon
