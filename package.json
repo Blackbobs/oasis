@@ -1,6 +1,6 @@
 {
-  "name": "oasis",
-  "version": "1.2.2",
+  "name": "oasis-toast",
+  "version": "1.0.0",
   "description": "A customizable toast notification library for React.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
